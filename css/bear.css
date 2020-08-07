@@ -9,3 +9,10 @@ html {
 }
 
 /* Write your solution here */
+@media screen and (max-width:1196px) {
+  #bear {
+    position: absolute;
+    left: 800px;
+  }
+
+}

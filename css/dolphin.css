@@ -22,7 +22,7 @@ html {
 @media screen and (min-width: 642px) and (max-width: 1090px) {
   #dolphin {
     position: fixed;
-    transform: rotate(0.25 turn);
+    transform: rotate(0.25turn);
     top: 200px;
   }
 
